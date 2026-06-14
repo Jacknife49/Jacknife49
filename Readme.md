@@ -1,4 +1,4 @@
-## Hello, I'm an aspiring young Researcher and upcoming Graduate Student
+## Hello, I'm an aspiring young Researcher and upcoming Doctoral Student
 
 Welcome to my GitHub profile. I am passionate about exploring the intersection of machine learning, sequential decision-making, and societal impact. My work primarily focuses on how algorithms interact with, adapt to, and influence the environments in which they are deployed.
 
